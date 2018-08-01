@@ -1,5 +1,4 @@
 #!usr/bin/python3.6
-#TicTacToe game
 from tkinter import *
 from tkinter import messagebox
 root=Tk()
